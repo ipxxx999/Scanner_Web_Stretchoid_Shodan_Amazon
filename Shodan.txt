@@ -1,0 +1,52 @@
+#
+# Lista IP de Shodan
+#
+# Una lista negra de firewall compuesta por escáneres Shodan
+#
+# https://www.shodan.io
+#
+# Informe entradas falsas o entradas adicionales como una solicitud o problema de extracción
+#
+
+# shodan escaner
+deny from 104.236.198.48
+deny from 159.203.176.62
+deny from 185.142.236.34
+deny from 185.142.236.35
+deny from 185.142.236.36
+deny from 185.163.109.66
+deny from 185.165.190.17
+deny from 185.165.190.34
+deny from 185.181.102.18
+deny from 195.144.21.56
+deny from 198.20.69.98
+deny from 198.20.70.114
+deny from 198.20.87.103
+deny from 198.20.87.96
+deny from 198.20.87.98
+deny from 198.20.99.130
+deny from 209.126.110.38
+deny from 216.117.2.180
+deny from 66.240.192.138
+deny from 66.240.205.34
+deny from 66.240.219.146
+deny from 66.240.236.119
+deny from 71.6.135.131
+deny from 71.6.146.130
+deny from 71.6.146.185
+deny from 71.6.146.186
+deny from 71.6.147.254
+deny from 71.6.158.166
+deny from 71.6.165.200
+deny from 71.6.167.142
+deny from 71.6.199.23
+deny from 80.82.77.139
+deny from 80.82.77.33
+deny from 82.221.105.6
+deny from 82.221.105.7
+deny from 89.248.167.131
+deny from 89.248.172.16
+deny from 93.174.95.106
+deny from 94.102.49.190
+deny from 94.102.49.193
+# shodan escaner
